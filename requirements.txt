@@ -1,7 +1,7 @@
-streamlit
-pandas
-python
-PIL
-matplotlib
-numpy
-pathlib
+matplotlib==3.8.2
+numpy==1.26.4
+pandas==2.2.0
+pyperclip==1.8.2
+streamlit==1.31.1
+pillow==10.2.0
+
